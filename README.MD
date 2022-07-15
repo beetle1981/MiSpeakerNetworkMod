@@ -1,6 +1,6 @@
 # Xiaomi Speaker Network Up
 
-![speaker](img\MiSpeaker.png)
+![speaker](img/MiSpeaker.png)
 
 Un Mod qui prend comme base sur wifiradio de [andr68rus](https://4pda.to/forum/index.php?showtopic=832136)
 
