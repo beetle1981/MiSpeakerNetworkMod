@@ -2,7 +2,7 @@
 1) télécharger l'image
 
  - [system-1.4.0.img.zip](../../raw/main/Firmware/system-1.4.0.img.zip)
- - [system-1.9.112.zip](../../raw/main/Firmware/system-1.9.112.zip)
+ - [system-1.19.112.zip](../../raw/main/Firmware/system-1.9.112.zip)
 
 2) Mettre le fichier IMG dans une clé usb au format fat32
 3) brancher / souder votre ftdi232 en 3v3 ou autre usb serial sur les pins comme sur la photo.
@@ -75,6 +75,7 @@ Pour la 1.4 installer l apk MI SPEAKER 1.3.2 pour configurer le wifi.
 
 Pour la 1.9 installer l apk MI Home pour configurer le wifi.
 
+Pour la 1.19 installer l apk MI Home pour configurer le wifi.
 # Erreurs ou bétises
 
 - l'enceinte demarre mais rien ne se passe.
